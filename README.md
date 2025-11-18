@@ -4,11 +4,12 @@
 ### 🚀 Bronze
 | 문제번호 | 링크 |
 | ----- | ----- |
-|1000. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB/A%EF%BC%8BB.cc)|
-|1001. A－B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB/README.md)|
+|1000. A＋B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB/README.md)|
+|1001. A－B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB/A%EF%BC%8DB.py)|
+|10798. 세로읽기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10798.%E2%80%85%EC%84%B8%EB%A1%9C%EC%9D%BD%EA%B8%B0/README.md)|
 |10926. ？？！|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10926.%E2%80%85%EF%BC%9F%EF%BC%9F%EF%BC%81/README.md)|
 |10998. A×B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10998.%E2%80%85A%C3%97B/README.md)|
-|2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/README.md)|
+|2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/Hello%E2%80%85World.cc)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
